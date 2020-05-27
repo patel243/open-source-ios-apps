@@ -20737,7 +20737,7 @@
     {
       "title": "FireTodo",
       "category-ids": [
-        "task",
+        "tasks",
         "swiftui"
       ],
       "description": "Simple Todo using SwiftUI, Firebase, Redux",
@@ -20780,12 +20780,41 @@
       ],
       "lang": "fra",
       "source": "https://gitlab.inria.fr/stopcovid19/stopcovid-ios",
-      "homepage": "https://stopcovid.gouv.fr",
+      "homepage": "https://www.economie.gouv.fr/stopcovid",
       "screenshots": [
         "https://i.imgur.com/xCpSSbP.png"
       ],
       "license": "other",
       "date_added": "May 26 2020",
+      "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Hand-painted style tower defense game",
+      "category-ids": [
+        "game"
+      ],
+      "tags": [
+        "swift",
+        "swift2",
+        "archive"
+      ],
+      "source": "https://github.com/gamechina/GoldenWar",
+      "license": "mit",
+      "date_added": "May 25 2020",
+      "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "CookieCrunch",
+      "description": "Candy Crush clone",
+      "category-ids": [
+        "game"
+      ],
+      "tags": [
+        "swift"
+      ],
+      "source": "https://github.com/renatomcamilio/CookieCrunch",
+      "license": "mit",
+      "date_added": "May 25 2020",
       "suggested_by": "@dkhamsing"
     }
   ]
